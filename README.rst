@@ -1,7 +1,20 @@
 Bitcoin Address Manipulation
 ====
 
-.. code-block:: bash
+Requirements
+---
+- python 3.8+
+- poetry_
+
+
+Quickstart
+---
+
+This should open a browser to the jupyter notebook.
+
+.. code-block:: git clone git@github.com:destrys/address_manipulation.git
+
+                cd address_manipulation
 
                 poetry shell
 
@@ -10,5 +23,4 @@ Bitcoin Address Manipulation
                 jupter notebook address.ipynb
 
 
-
-             
+.. _poetry: https://python-poetry.org/
